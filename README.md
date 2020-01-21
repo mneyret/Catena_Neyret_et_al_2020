@@ -3,4 +3,6 @@ This is the code and data used in the paper "Higher runoff and soil detachment i
 
 Link to the paper:
 
-If you use this data, please cite it appropriately using the DOI for the current version: https://zenodo.org/badge/119413357.svg
+If you use this data, please cite it appropriately using the DOI for the current version: https://zenodo.org/badge/latestdoi/235159434
+
+
